@@ -1,0 +1,14 @@
+{
+  "name": "with-probability",
+  "version": "1.0.0",
+  "description": "Simple probability utility without having to deal with Math.random()",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmoreilly/with-probability.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmoreilly/with-probability/issues"
+  },
+  "homepage": "https://github.com/jmoreilly/with-probability#readme"
+}
